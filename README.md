@@ -54,13 +54,16 @@ Essa jornada proporcionou um entendimento profundo do ecossistema Databricks, ca
 
 ##  🗂️Estrutura de Arquivos no Repositório:
 * Notebook | Explorando Databricks Parte 01 e 02
+
     O material proporciona insights sobre como criar e utilizar o Databricks, desde a criação de uma conta na versão Community até a manipulação de arquivos no DBFS, criação de clusters, importação de notebooks, utilização do SQL em notebooks, criação de databases e tabelas, carregamento de dados, exploração de dados com SQL, conceitos do Apache Spark e uso do PySpark para trabalhar com dados no Spark.
 
 
 * Notebook | Análise Exploratória Databricks
+
     Investigação e compreensão aprofundada de conjuntos de dados, proporcionando uma visão abrangente e buscando atribuir significado aos dados para extrair conhecimento valioso.
 
 * Arquivo CSV
+
     Base de dados contendo material para a exploração e análise de dados utilizando o Databricks.
 
 ## 🎞️ Imagens do Projeto
