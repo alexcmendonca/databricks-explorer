@@ -4,9 +4,9 @@
 Este projeto de exploração do Databricks abrangeu diversos tópicos, destacando as principais habilidades adquiridas ao longo do caminho:
 
 **1. Configuração Inicial:**
-    - Criação de clusters para processamento no Databricks.
+- Criação de clusters para processamento no Databricks.
 
-    - Utilização de notebooks para desenvolvimento e execução de código.
+- Utilização de notebooks para desenvolvimento e execução de código.
 
 **2. Gestão de Dados:**
     - Exploração e compreensão do Databricks File System (DBFS).
