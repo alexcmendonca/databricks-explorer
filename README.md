@@ -28,8 +28,9 @@ Este projeto de exploração do Databricks abrangeu diversos tópicos, destacand
 - Criação de DataFrames utilizando PySpark para manipulação e análise de dados.
 
 **6. Análise de Dados com Databricks:**
-    - Aplicação das habilidades adquiridas para a análise eficaz de conjuntos de dados.
-    - Utilização de funcionalidades avançadas do Databricks para insights valiosos.
+- Aplicação das habilidades adquiridas para a análise eficaz de conjuntos de dados.
+
+- Utilização de funcionalidades avançadas do Databricks para insights valiosos.
 
 Essa jornada proporcionou um entendimento profundo do ecossistema Databricks, capacitando para a criação e gestão de clusters, desenvolvimento eficiente com notebooks, manipulação eficaz de dados utilizando SQL e Spark, e a habilidade de integrar diversas ferramentas para análise e exploração de dados, culminando na realização de análises de dados avançadas com o Databricks.
 
@@ -59,8 +60,8 @@ Essa jornada proporcionou um entendimento profundo do ecossistema Databricks, ca
 * Notebook | Análise Exploratória Databricks
     Investigação e compreensão aprofundada de conjuntos de dados, proporcionando uma visão abrangente e buscando atribuir significado aos dados para extrair conhecimento valioso.
 
-* Base da Dados
-    Arquivo CSV contendo material para a exploração e análise de dados utilizando o Databricks.
+* Arquivo CSV
+    Base de dados contendo material para a exploração e análise de dados utilizando o Databricks.
 
 ## 🎞️ Imagens do Projeto
 
