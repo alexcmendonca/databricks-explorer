@@ -62,7 +62,7 @@ Essa jornada proporcionou um entendimento profundo do ecossistema Databricks, ca
 
     Investigação e compreensão aprofundada de conjuntos de dados, proporcionando uma visão abrangente e buscando atribuir significado aos dados para extrair conhecimento valioso.
 
-* Arquivo CSV
+* Data | Arquivo CSV
 
     Base de dados contendo material para a exploração e análise de dados utilizando o Databricks.
 
