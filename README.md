@@ -9,20 +9,23 @@ Este projeto de exploração do Databricks abrangeu diversos tópicos, destacand
 - Utilização de notebooks para desenvolvimento e execução de código.
 
 **2. Gestão de Dados:**
-    - Exploração e compreensão do Databricks File System (DBFS).
-    - Criação de tabelas no ambiente de notebook para organização de dados.
+- Exploração e compreensão do Databricks File System (DBFS).
+
+- Criação de tabelas no ambiente de notebook para organização de dados.
 
 **3. Utilidades e Manipulação de Arquivos:**
-    - Familiarização com comandos utilities para manipulação eficiente de arquivos.
-    - Exploração de datasets, diretorios e manipulação de arquivos no ambiente Databricks.
+- Familiarização com comandos utilities para manipulação eficiente de arquivos.
+
+- Exploração de datasets, diretorios e manipulação de arquivos no ambiente Databricks.
 
 **4. Integração com Apache Hive:**
-    - Integração e utilização do Apache Hive no contexto do Databricks
-    - Execução de consultas SQL diretamente no Databricks.
+- Integração e utilização do Apache Hive no contexto do Databricks.
+
+- Execução de consultas SQL diretamente no Databricks.
 
 **5. Exploração de Dados com Apache Spark:**
-    - Introdução ao Apache Spark e sua comunicação eficiente com o Apache Hive.
-    - Criação de DataFrames utilizando PySpark para manipulação e análise de dados.
+- Introdução ao Apache Spark e sua comunicação eficiente com o Apache Hive.
+- Criação de DataFrames utilizando PySpark para manipulação e análise de dados.
 
 **6. Análise de Dados com Databricks:**
     - Aplicação das habilidades adquiridas para a análise eficaz de conjuntos de dados.
