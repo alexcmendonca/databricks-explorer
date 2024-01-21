@@ -71,8 +71,8 @@ Essa jornada proporcionou um entendimento profundo do ecossistema Databricks, ca
 ###### Imagem 2: DBFS File Browser
 <img src="img/dbfs-file-browser.png">
 
-###### Imagem 3: DBFS File Browser
-<img src="img/dbfs-file-browser.png">
+###### Imagem 3: Notebook Databricks
+<img src="img/notebook-databricks.png">
 
 ## 🔍Referências
 - [Alura](https://www.alura.com.br/)
