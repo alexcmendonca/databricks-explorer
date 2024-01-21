@@ -5,6 +5,7 @@ Este projeto de exploração do Databricks abrangeu diversos tópicos, destacand
 
 **1. Configuração Inicial:**
     - Criação de clusters para processamento no Databricks.
+
     - Utilização de notebooks para desenvolvimento e execução de código.
 
 **2. Gestão de Dados:**
@@ -16,7 +17,7 @@ Este projeto de exploração do Databricks abrangeu diversos tópicos, destacand
     - Exploração de datasets, diretorios e manipulação de arquivos no ambiente Databricks.
 
 **4. Integração com Apache Hive:**
-    - Integração e utilização do Apache Hive no contexto do Databricks.
+    - Integração e utilização do Apache Hive no contexto do Databricks
     - Execução de consultas SQL diretamente no Databricks.
 
 **5. Exploração de Dados com Apache Spark:**
